@@ -1,0 +1,25 @@
+{
+  "name": "@rahadiana/r_3031",
+  "version": "0.0.41,
+  "description": "api api",
+  "main": "src/factory/HttpRequest.js",
+  "scripts": {
+    "release": "echo 'ok'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahadiana/r_3031/"
+  },
+  "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@rahadiana/node_response_standard": "^0.0.1",
+    "axios": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
