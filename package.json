@@ -1,6 +1,6 @@
 {
   "name": "@rahadiana/r_3031",
-  "version": "0.0.41,
+  "version": "0.0.1",
   "description": "api api",
   "main": "src/factory/HttpRequest.js",
   "scripts": {
